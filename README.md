@@ -1,4 +1,4 @@
-# Personal Portfolio ⚡️ 
+# Jim AL Sadik's Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Computer Science Graduates & Engineers!
 
 > https://jimalsadik.github.io
